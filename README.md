@@ -1,5 +1,5 @@
 # Reuben-21
-24 key numpad handwired using qmk, named 21 for some reason. 
+24 key numpad handwired using qmk, named 21 for some reason. Coded with qmk, you don't want to see my code. 
 
 # Photos 
 <img width="810" height="1440" alt="reuben 21" src="https://github.com/user-attachments/assets/25be6a18-8c9a-4704-91b4-210ebfecf3e8" />
